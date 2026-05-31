@@ -1,21 +1,15 @@
 ### Hi, I'm Parul Gupta 👋
-
-⚡ Engineer at Meta.
-
-🌱🌱 Graduated from University of Massachusetts, Amherst as Masters of Science in Computer Science. I worked extensively on <a href="https://parulgupta1004.github.io/fair-seldonian/">Fair-Seldonian</a> - fairness in machine learning using Seldonian frameworks under the guidance of <a href="https://people.cs.umass.edu/~pthomas/">Prof. Philip S Thomas</a>.
-
-🌱 Undergrad in Computer Science and Engineering from IIT Indore, India.
-
 😄 Pronouns: she/her/hers
 
-<p align="center">
-<a href="https://github.com/parulgupta1004/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parulgupta1004" alt="Parul's github stats" />
-</a>
-<a href="https://github.com/parulgupta1004/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parulgupta1004&layout=compact" />
-</a>
-</p>
+⚡ Engineer at Meta
+
+Award winner | Responsible AI Engineer | Tech Speaker | Pythonista
+
+🌱 Enthusiastic to accelerate AI systems and research (at Meta and in open-source) via safety harness and Responsible AI techniques.
+
+🌱 Creator of <a href="https://pypi.org/project/fair-seldonian/">Fair-Seldonian</a>, fairness-constrained machine learning with high-confidence guarantees (happy to receive contributions!). This open-source library fuels my passion for Responsible AI, a domain in AI that incorporates fairness bounds to complex reinforcement learning and machine learning algorithms. 
+
+📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/parulgupta04/)
 
 <!--
 Here are some ideas to get you started:
@@ -25,7 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
