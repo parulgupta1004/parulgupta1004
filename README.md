@@ -5,9 +5,9 @@
 
 Award winner | Responsible AI Engineer | Tech Speaker | Pythonista
 
-🌱 Enthusiastic to accelerate AI systems and research (at Meta and in open-source) via safety harness and Responsible AI techniques.
+🌱 Enthusiastic to accelerate AI systems and research via safety harness and Responsible AI techniques.
 
-🌱 Creator of <a href="https://pypi.org/project/fair-seldonian/">Fair-Seldonian</a>, fairness-constrained machine learning with high-confidence guarantees (happy to receive contributions!). This open-source library fuels my passion for Responsible AI, a domain in AI that incorporates fairness bounds to complex reinforcement learning and machine learning algorithms. 
+🌱 Creator of <a href="https://pypi.org/project/fair-seldonian/">Fair-Seldonian</a>, fairness-constrained machine learning with high-confidence guarantees (happy to receive contributions to this fun project!). 
 
 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/parulgupta04/)
 
