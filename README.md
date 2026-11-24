@@ -3,7 +3,7 @@
 
 ⚡ Engineer at Meta
 
-Award winner | Responsible AI Engineer | Tech Speaker | Pythonista
+Award winner | Responsible AI Engineer | Pythonista | Open-source
 
 🌱 Enthusiastic to accelerate AI systems and research via safety harness and Responsible AI techniques.
 
